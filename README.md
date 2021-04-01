@@ -16,7 +16,9 @@
 
 
 
-#### @AUTOR: FLAVIO MONTEIRO
+###### Sobre mim
 
-LINKEDIN: https://www.linkedin.com/in/flaviohnm/
+###### Autor: flaviohnm
+
+- LinkedIn: https://www.linkedin.com/in/flaviohnm/
 
