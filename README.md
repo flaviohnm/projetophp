@@ -18,7 +18,7 @@
 
 ###### Sobre mim
 
-###### Autor: flaviohnm
+Autor: flaviohnm
 
-- LinkedIn: https://www.linkedin.com/in/flaviohnm/
+LinkedIn: https://www.linkedin.com/in/flaviohnm/
 
