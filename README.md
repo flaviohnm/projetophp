@@ -18,7 +18,5 @@
 
 ###### Sobre mim
 
-Autor: flaviohnm
-
-LinkedIn: https://www.linkedin.com/in/flaviohnm/
+@Autor: [Flávio Monteiro](https://github.com/flaviohnm) | :rocket: [Flavio Monteiro](https://www.linkedin.com/in/flaviohnm/)  | :e-mail: [fm](flaviohnm@gmail.com)
 
